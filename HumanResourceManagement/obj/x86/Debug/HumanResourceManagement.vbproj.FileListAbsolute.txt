@@ -1,0 +1,60 @@
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe.config
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.xml
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.Resources.resources
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.vbproj.GenerateResource.Cache
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.exe
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.xml
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.pdb
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormUser.resources
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeInfo.resources
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormMain.resources
+C:\Users\lytehauz\documents\visual studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeSearch.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe.config
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.exe
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.xml
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.pdb
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\CEIT.accdb
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.xml
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeInfo.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeSearch.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormMain.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormUser.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.LoginForm1.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.Resources.resources
+E:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.vbproj.GenerateResource.Cache
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe.config
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.exe
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.xml
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.pdb
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\CEIT.accdb
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.xml
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeInfo.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeSearch.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormMain.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormUser.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.LoginForm1.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.Resources.resources
+D:\HRMS-CEIT\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.vbproj.GenerateResource.Cache
+C:\Users\lytehauz\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.LoginForm1.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe.config
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.exe
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.xml
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.pdb
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeInfo.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeSearch.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormMain.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormUser.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.LoginForm1.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.Resources.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.vbproj.GenerateResource.Cache
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.exe
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.xml
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormAttendance.resources
+C:\Users\THE HUB BLUE\Documents\Visual Studio 2010\Projects\HumanResourceManagement\HumanResourceManagement\obj\x86\Debug\HumanResourceManagement.FormEmployeeReport.resources
